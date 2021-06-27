@@ -1,2 +1,2 @@
-# miniproject
-mini project
+# Miniproject(Super market Billing Calculation System)
+
